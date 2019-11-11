@@ -1,5 +1,4 @@
-﻿{
-    "categoryBook":[
+[
         {
             "id": 1, 
 			"title": "Nội chiến nước mỹ",
@@ -64,4 +63,3 @@
             ]
         }
     ]
-}
