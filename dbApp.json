@@ -1,26 +1,12 @@
 [
   {
-    "id": 1, 
-			"title": "Nội chiến nước mỹ",
-			"description": "Cách nay hơn một thế kỷ, người Mỹ phải chịu hậu quả của một cuộc chiến tranh huynh đệ tương tàn gây tổn thất to lớn. Cuộc chiến này tái hiện lại hầu như toàn bộ chủ nghĩa anh hùng và đức hy sinh, sự tàn bạo và nỗi kinh hoàng của cuộc chiến giữa người Hy Lạp với người dân thành Troy xưa kia. Sau nội chiến Hoa Kỳ, chiến thắng của Liên bang miền Bắc đã mãi mãi thay đổi tiến trình lịch sử của nước Mỹ, và như vậy cũng thay đổi tiến trình lịch sử nhân loại.",
-            "avataBook": "https://upload.wikimedia.org/wikipedia/vi/thumb/d/df/20-ME.jpg/300px-20-ME.jpg",
-			"author": "Charles P. Roland",
-			"translator": "Tuyết Minh",
-			"publishingCompany": "Nxb Văn hóa Thông tin",
-			"publisher": "Văn Lang",
-			"releaseDate": "09/2007",
-			"numberPages": "416",
+    "id": 1,
+    "body": "some comment",
+    "postId": 1
   },
   {
-    "id": 2, 
-			"title": "Nội chiến nước mỹ",
-			"description": "Cách nay hơn một thế kỷ, người Mỹ phải chịu hậu quả của một cuộc chiến tranh huynh đệ tương tàn gây tổn thất to lớn. Cuộc chiến này tái hiện lại hầu như toàn bộ chủ nghĩa anh hùng và đức hy sinh, sự tàn bạo và nỗi kinh hoàng của cuộc chiến giữa người Hy Lạp với người dân thành Troy xưa kia. Sau nội chiến Hoa Kỳ, chiến thắng của Liên bang miền Bắc đã mãi mãi thay đổi tiến trình lịch sử của nước Mỹ, và như vậy cũng thay đổi tiến trình lịch sử nhân loại.",
-            "avataBook": "https://upload.wikimedia.org/wikipedia/vi/thumb/d/df/20-ME.jpg/300px-20-ME.jpg",
-			"author": "Charles P. Roland",
-			"translator": "Tuyết Minh",
-			"publishingCompany": "Nxb Văn hóa Thông tin",
-			"publisher": "Văn Lang",
-			"releaseDate": "09/2007",
-			"numberPages": "416",
+    "id": 2,
+    "body": "some comment",
+    "postId": 1
   }
 ]
