@@ -1,186 +1,186 @@
 [
 {	"id": 1,
 	"type": 1,
-	"nameType": "Lịch sử nước mỹ" 
+	"nameType": "Lịch sử nước mỹ" ,
 	"title": "Nội chiến nước mỹ",
 	"description": "Giữa thế kỷ 19, các bang thuộc miền Bắc nước Mỹ thực hiện chế độ tự do, nền công nghiệp tư bản chủ nghĩa nhanh chóng phát triển. Các bang miền Nam vẫn thực hiện chế độ nô lệ, bóc lột tàn khốc đối với lao động nô lệ da đen, điều này đã trở thành trở ngại lớn đối với s ự phát triển của chủ nghĩa tư bản ở Mỹ. Lúc đó, mâu thuẫn giữa miền Bắc và miền Nam, mâu thuẫn giữa chế độ tự do với chế độ nô lệ đã phát triển đến mức không thể dung hòa nhau.",
 	"avataBook": "http://3.bp.blogspot.com/-KVU3x2ha12s/VUJnraR018I/AAAAAAAADgk/cIUYQl1pXPE/s1600/media-13567172546885190020150426073214.2850570.jpg",
 	"content": [
 		{
-			tittle: "Liên Bang giành chiến thắng 1864-1865", // tittle cho từng đoạn
-			image: "https://spiderkien.files.wordpress.com/2011/03/lee-surrender.jpg", // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "Liên Bang giành chiến thắng 1864-1865", 
+			image: "https://spiderkien.files.wordpress.com/2011/03/lee-surrender.jpg",
+			isHeighLineText: false,
 			contentPage: "Những chiến thắng của Liên bang trong năm 1863 đồng nghĩa với việc Miền Nam không thể giành độc lập bằng một chiến thắng quân sự quyết định. Tuy nhiên, Liên minh vẫn có thể hi vọng vào một tình thế quân sự bế tắc và một thỏa thuận hòa bình. Lincoln đứng trước nhiệm vụ khó khăn phải giành được một chiến thắng áp đảo, nếu không ông sẽ đánh mất sự ủng hộ của những cử tri miền bắc."
 		},
 		{
-			tittle: "Tình hình chiến sự", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "Tình hình chiến sự", 
+			image: null,
+			isHeighLineText: false, 
 			contentPage: "Có 2 điều giúp tăng thêm sức mạnh cho quân đội Liên bang trong cuộc chiến: sự tham gia của những người lính gốc Phi và sự nổi lên của những vị tướng có tài và quyết đoán. Ngay từ năm 1861, những người Mĩ gốc Phi tự do và những nô lệ bỏ trốn đã xung phong vào quân đội Liên bang, hi vọng chấm dứt chế độ nô lệ và như Frederick Douglass nhận định, để giành “quyền làm công dân Hợp chủng quốc Hoa Kì”. Việc người da đen tham gia quân đội khiến nhiều người da trắng miền bắc khó chịu. Một sĩ quan New York đã viết trên tờ báo địa phương “Tôi cũng phản đối chế độ nô lệ giống như họ, nhưng tôi không sẵn sàng đứng ngang hàng với lũ người da đen và chiến đấu cùng với họ”. Hơn nữa, hầu hết các vị tướng Liên bang đều nghi ngờ những người trước kia từng là nô lệ có thể trở thành những người lính tốt. Bởi vậy chính quyền Lincoln lúc đầu từ chối tuyển người Mĩ gốc Phi."
-		}
+		},
 		{
-			tittle: "", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "",
+			image: null, 
+			isHeighLineText: false, 
 			contentPage: "Tuy nhiên, bản tuyên ngôn giải phóng nô lệ đã thay đổi lối suy nghĩ phổ biến và chính sách quân sự. Bản tuyên ngôn đã mời các nô lệ cũ phục vụ cho quân đội Liên bang, và những người da trắng miền bắc vốn phải chịu con số thương vong quá lớn giờ đây đã chấp nhận để người da đen chia sẻ gánh nặng chiến đấu. Sự dũng cảm của trung đoàn lính Mĩ gốc Phi đầu tiên tham chiến cũng góp phần làm thay đổi suy nghĩ của người Miền Bắc. Vào tháng 7 năm 1863, một cuộc tấn công anh hùng vào Pháo đài Wagner, Nam Carolina của trung đoàn bộ binh 54 Massachusetts đã thuyết phục nhiều sĩ quan Liên bang về giá trị của những người lính da đen. Bộ chiến tranh bắt đầu cho phép tuyển binh sĩ da đen và khi sự chống đối của người da trắng trước chính sách cưỡng bách tòng quân ngày càng dâng cao thì chính quyền Lincoln đã chiêu mộ tất cả những người da đen có thể tuyển được. Đến mùa xuân năm 1865, con số người Mĩ gốc Phi chiến đấu cho Liên bang đã lên tới gần 200.000 người."
 		},
 		{
-			tittle: "", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "", 
+			image: null, 
+			isHeighLineText: false, 
 			contentPage: "Trong khi đó, Lincoln cuối cùng cũng tìm được một vị tướng chỉ huy hiệu quả và tàn nhẫn. Vào tháng 3 năm 1864, Lincoln bổ nhiệm tướng Ulysses S.Grant giữ chức tổng chỉ huy quân đội Liên bang và thiết lập một bộ máy chỉ huy hoàn chỉnh. Kể từ đó, tổng thống quyết định chiến lược chung và Grant thực thi nó. Lincoln ưa thích một tiến bộ đồng thời trước toàn bộ các cánh quân lớn của Liên minh, chiến lược mà Grant vốn ưa thích từ lâu, để đạt được một chiến thắng quyết định trước kì bầu cử năm 1864."
 		},
 		{
-			tittle: "", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "",
+			image: null, 
+			isHeighLineText: false, 
 			contentPage: "Như đã thể hiện trong chiến dịch phía tây năm 1863 thành công rực rỡ, Grant biết cách làm thế nào để tiến hành một cuộc chiến tranh dựa trên kĩ thuật tân tiến và nhắm đến toàn thể cộng đồng. Tại Vicksburg, ông đã bao vây cả một thành phố và buộc nó phải đầu hàng. Sau đó, tháng 11 năm 1863, ông đã sử dụng đường sắt để giải cứu một cánh quân Liên bang lâm nguy gần Chattanooga, Tennessee. Hơn thế, Grant không tán thành những nỗ lực của những vị chỉ huy quân đội Liên bang trước đó “bảo toàn nhân mạng” thông qua những chiến thuật cẩn trọng. Ông cho rằng làm như vậy chỉ kéo dài thêm cuộc chiến. Grant sẵn sàng chấp nhận thương vong nặng nề, điều đó khiến cả kẻ thù và người của ông gọi vị tướng này với biệt danh tên đồ tể."
 		},
 		{
-			tittle: "", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "",
+			image: null, 
+			isHeighLineText: false, 
 			contentPage: "Trong tháng 5 năm 1864, Grant chỉ đạo tiến hành 2 cuộc tấn công lớn. Ông trực tiếp chỉ huy đạo quân Potomac 115.000 người với mục tiêu phá tan lực lượng 75.000 quân của Lee ở Virginia. Đồng thời, Grant lệnh cho tướng William Tecumseh Sherman, người có cùng quan điểm không khoan nhượng, tấn công vào Georgia và chiếm Atlanta. Sherman đã viết trong khi chuẩn bị cho trận chiến “Tất cả những trận đánh trước đây chỉ là những cuộc giao tranh lẻ tẻ, cuộc chiến bây giờ mới thực sự bắt đầu”."
 		},
 		{
-			tittle: "", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "", 
+			image: null, 
+			isHeighLineText: false,
 			contentPage: "Grant tiến đến Richmond hi vọng có thể buộc Lee giao tranh trên một chiến trường trống trải, nơi ưu thế về nhân lực và pháo binh của Liên bang sẽ phát huy tác dụng. Chưa quên sai lầm chiến thuật của mình tại Gettysburg, Lee trấn giữ ở những vị trí phòng thủ thuận lợi và chỉ tấn công khi nắm chắc lợi thế. Vị tướng Liên minh đã 2 lần tận dụng được cơ hội đó và giành được những thắng lợi sát sao vào đầu tháng 5 năm 1864 trong những trận chiến cực kì đẫm máu tại Spotsylvania. Mặc dù chịu tổn thất nặng nề trong những trận chiến này và sau đó là tại Cảng Cold, Grant vẫn tiếp tục tiến quân. Những đợt tấn công của ông khiến cho quân đội của Lee chịu con số thương vong lên đến 31.000 người nhưng tổn thất của Liên bang thậm chí còn cao hơn: 55.000 người."
 		},
 		{
-			tittle: "", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "", 
+			image: null, 
+			isHeighLineText: false, 
 			contentPage: "Thời gian càng trôi đi thì Lincoln và Grant càng cảm nhận được sức ép đè nặng lên vai mình. Con số thương vong khổng lồ và tình thế quân sự tiếp tục bế tắc đe dọa Lincoln trong cuộc bầu cử tháng 11. Triển vọng của Đảng Cộng hòa càng tồi tệ hơn vào tháng 7 khi lực lượng kị binh của Jubal Early bất ngờ đột kích gần Washington buộc Grant phải chuyển hướng đội quân tốt nhất của mình tới chiến dịch Petersburg. Để trừng phạt những người nông dân ở thung lũng Shenandoah đã hỗ trợ cho Early và Lee, Grant đã lệnh cho tướng Philip H.Sheridan biến cả khu vực này thành “một vùng đất hoang cằn cỗi”. Quân đội của Sheridan thực hiện một chiến dịch tiêu thổ phá hủy toàn bộ ruộng vườn, kho thóc. Chiến thuật khủng bố này đã vi phạm qui ước quân sự vào thời điểm đó không cho xâm phạm thường dân. Hành động đối xử với các công dân Liên minh như kẻ thù chiến tranh  của Grant đã thay đổi định nghĩa về chiến tranh truyền thống."
 		},
 		{
-			tittle: "Cuộc bầu cử năm 1864 và cuộc hành quân của Sherman", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "Cuộc bầu cử năm 1864 và cuộc hành quân của Sherman", 
+			image: null, 
+			isHeighLineText: false,
 			contentPage: "Khi cuộc bao vây tại Petersburg vẫn chưa có kết cục thì hi vọng tái cử của Lincoln đặt lên vai tướng Sherman tại Georgia. Sherman đã dần dần thâm nhập được vào sâu 30 dặm trong Atlanta, một đầu mối đường sắt lớn và là trái tim của Liên minh.Mặc dù quân đội của ông áp đảo về quân số so với tướng Joseph E. Johnston- 90.000 quân so với 60.000- nhưng Sherman tránh một cuộc tấn công trực diện và từ từ dò xét tình hình quân Liên Minh. Cuối cùng, vào ngày 27 tháng 6, tại núi Kennesaw, Sherman đã giao tranh với Johnston và kết quả chỉ để chuốc lấy 3000 thương vong- gấp 5 lần tổn thất của Liên minh. Đến cuối tháng 7 năm 1864, vị tướng Liên bang đã tiến đến ngoại ô phía bắc của Atlanta nhưng tháng tiếp đó không mang lại tiến bộ đáng kể nào. Giống như Grant, Sherman dường như đang sa lầy trong một chiến dịch vô vọng."
 		},
 		{
-			tittle: "", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "", 
+			image: null, 
+			isHeighLineText: false,
 			contentPage: "Trong khi đó, chiến dịch bầu cử tổng thống năm 1864 đang đến gần. Vào tháng 6, một số đại biểu ở đại hội Đảng Cộng hòa đã cố gắng ngăn cản việc Lincoln được tái đề cử. Nhưng đại hội đã tán thành chiến lược chiến tranh của tổng thống, yêu cầu Liên minh đầu hàng vô điều kiện, và kêu gọi một bản tu chính hiến pháp xóa bỏ chế độ nô lệ. Như vậy, nó cũng tán thành đường lối chính trị của Lincoln. Để thu hút cử tri các bang biên giới và theo Đảng Dân chủ, Đảng Cộng hòa lấy cái tên mới là Đảng Liên bang quốc gia, và chọn Andrew Johnson, một chủ nô Tennessee và là một người Dân Chủ theo Liên bang làm ứng cử viên đồng hành với Lincoln tranh cử. Đại hội Đảng Dân chủ họp vào cuối tháng 8 đề cử tướng George B.McClellan làm tổng thống. Lincoln đã 2 lần loại bỏ McClellan khỏi các chức vụ chỉ huy quân sự: lần đầu do sự cẩn trọng quá mức và lần sau do ông phản đối giải phóng nô lệ. Giống như McClellan, các đại biểu Dân chủ phản đối tự do cho người da đen và tố cáo Lincoln trấn áp những người bất đồng chính kiến.  Tuy nhiên họ chia làm 2 phe xung quanh vấn đề có tiếp tục duy trì chiến tranh đến khi Liên bang được phục hồi nguyên vẹn. Mặc dù thuộc phe Dân chủ ủng hộ chiến tranh nhưng McClellan đã hứa nếu được tái cử sẽ đề nghị Quốc hội lập tức đình chiến và đàm phán hòa bình. Nghe được tin này, Phó tổng thống Liên minh Alexander Stephens đã ăn mừng “tia sáng thực sự đầu tiên tôi từng thấy kể từ khi cuộc chiến bắt đầu”. Ông dự đoán nếu Atlanta và Richmond cầm cự được, Lincoln có thể bị đánh bại và McClellan có thể sẽ thuyết phục Quốc hội chấp nhận sự độc lập của Liên Minh."
 		},
 		{
-			tittle: "", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "", 
+			image: null, 
+			isHeighLineText: false,
 			contentPage: "Nhưng hi vọng của Stephens đã tan vỡ vào 2/9/1864 khi Atlanta rơi vào tay quân đội Sherman. Trong một bước đi bất ngờ, vị tướng Liên bang đã kéo quân khỏi những hào sâu, truy quét xung quanh thành phố và phá hủy tuyến đường sắt nối nó với miền Nam. Lo sợ Sherman sẽ bao vây quân đội của mình, vị tướng Liên minh John B.Hood đã bỏ thành phố lại.  “Atlanta giờ đây là của chúng ta”, Sherman đã điện báo về cho Lincoln như vậy khiến cho những người Cộng hòa ở miền Bắc tổ chức những cuộc ăn mừng lớn."
 		},
 		{
-			tittle: "", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "", 
+			image: null,
+			isHeighLineText: false, 
 			contentPage: "Một không khí bi quan bao trùm khắp Liên Minh. Mary Chesnut, một người nữ chủ nô và là vợ của một vị tướng “cảm thấy như thể tất cả đã chết trong tôi, mãi mãi” và đã thấy trước kết cục của Liên minh: “Chúng ta sẽ bị quét sạch khỏi trái đất này”, cô viết trong nhật kí của mình. Nhận thấy sự biến chuyển lớn của tình thế quân sự, McClellan chối bỏ quan điểm của phe Dân chủ hòa hoãn. Đảng Liên bang quốc gia liền tấn công McClellan phê phán sự thiếu kiên định của ông và công kích phe Dân chủ chủ hòa là “những con rắn hổ mang” chứa đầy âm mưu phản nghịch."
 		},
 		{
-			tittle: "", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "", 
+			image: null,
+			isHeighLineText: false, 
 			contentPage: "Lincoln đã giành chiến thắng dễ dàng vào tháng 11. Vị tổng thống nhận được 55% số phiếu phổ thông và giành được 212 trên 233 số phiếu đại cử tri. Đảng Cộng hòa và Đảng Liên bang quốc gia chiếm 145 trong số 185 ghế ở Hạ viện và tăng số ghế ở Thượng viện lên 42 trong số 52 ghế."
 		},
 		{
-			tittle: "", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "", 
+			image: null, 
+			isHeighLineText: false, 
 			contentPage: "Cuộc giải phóng nô lệ chuẩn bị được tiến hành ở ven miền Nam. Năm 1864, Maryland và Missouri đã sửa đổi thể chế của mình để trả tự do cho những người nô lệ, và 3 bang mới bị chiếm là Tennessee, Arkansas, và Louisiana cũng theo bước. Tuy nhiên, những người theo chủ nghĩa bãi nô lo ngại rằng Bản tuyên ngôn giải phóng nô lệ dựa trên quyền lực thời chiến của tổng thống sẽ mất hiệu lực sau khi kết thúc chiến tranh. Do đó, Lincoln và Liên đoàn quốc gia quyền bình đẳng đã thúc giục Quốc hội do Đảng Cộng hòa chiếm đa số thông qua Tu chính Hiến Pháp số 13 chấm dứt chế độ nô lệ vào tháng 1 năm 1865 và gửi đến các bang phê chuẩn. Chế độ nô lệ đang đến hồi hấp hối."
 		},
 		{
-			tittle: "", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "", 
+			image: null, 
+			isHeighLineText: false, 
 			contentPage: "Nhờ William Tecumseh Sherman, Liên minh cũng đang tới hồi diệt vong. Là một sĩ quan quân đội trẻ xuất thân từ miền Nam, Sherman đồng cảm với giai cấp chủ nô và cảm thấy chế độ nô lệ giúp giữ vững sự ổn định xã hội. Nhưng Sherman lại cũng là một người ủng hộ trung thành của Liên Bang. Li khai đồng nghĩa với “hỗn loạn”, ông đã nói với người bạn miền nam của mình vào đầu năm 1861, “Nếu chiến tranh xảy ra… tôi sẽ phải chiến đấu với những người mà tôi yêu nhất”. Phục vụ dưới trướng của Ulysses S.Grant, Sherman đã chứng tỏ mình tại Shiloh và Vicksburg. Được chỉ huy quân đội Liên bang tại Tennessee, ông đã phát triển triết lí và chiến thuật “chiến tranh cứng rắn”. “Khi một quốc gia ở trong tình trạng chiến tranh với một quốc gia khác, tất cả người dân của quốc gia này là kẻ thù của quốc gia kia”, Sherman tuyên bố như vậy và sẵn sàng cho quân tấn công những thường dân bị nghi ngờ giúp đỡ du kích của Liên minh."
 		},
 		{
-			tittle: "", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "", 
+			image: null, 
+			isHeighLineText: false,
 			contentPage: "Sau khi chiếm Atlanta, Sherman quyết định thực hiện một chiến lược chiến tranh cứng rắn táo bạo. Thay vì truy đuổi quân đội Liên Minh đang tháo chạy lên phía bắc tới Tennessee, ông yêu cầu được xuống miền nam, “cắt một đường tới biển”. Để thuyết phục Lincoln và Grant chấp thuận kế hoạch táo bạo này, Sherman lập luận rằng cuộc hành quân đó của ông sẽ tàn phá Georgia và để “cho cả thế giới, cả trong và ngoài nước, thấy rằng chúng ta có sức mạnh mà Davis không thể chống đỡ”. Và vị tướng Liên bang đã được chấp thuận. Sherman đã viết rằng “Chúng ta sẽ không chỉ chiến đấu với những đội quân thù nghịch mà còn cả những người dân thù nghịch, và chúng ta phải cho cả người già và người trẻ, cả giàu và nghèo, cảm nhận được sự tàn khốc của chiến tranh”. Ông rời Atlanta trong những ngọn lửa và trong cuộc hành quân 300 dặm tới biển, quân đội của ông đã cướp bóc hoặc tàn phá tất cả mọi thứ trên đường đi của mình. Sự tàn phá khủng khiếp này làm nản lòng các binh lính Liên minh khiến nhiều người đã đào ngũ để trở về nhà bảo vệ trang trại và gia đình mình. Khi Sherman tiến đến Savannah vào giữa tháng 10, cả 10.000 lính phòng vệ đã bỏ trốn mà không hề chống cự."
 		},
 		{
-			tittle: "", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "", 
+			image: null, 
+			isHeighLineText: false, 
 			contentPage: "Những người Mĩ gốc Phi ở Georgia coi Sherman như một đấng cứu thế. “Họ lũ lượt kéo đến chỗ tôi, cả già và trẻ, cầu nguyện,hò hét và pha trộn tên tôi với Moses… cũng như ‘Abram Linkom’”. Sherman đã cấp Cánh đồng đặc biệt số 15 rộng 400.000 mẫu cho những người nô lệ mới được giải phóng. Đến tháng 6 năm 1865, 40.000 người da đen đã trồng trọt trên “những mảnh đất của Sherman”. Nhiều người nô lệ mới được giải phóng tin rằng những mảnh đất này sẽ là của họ mãi mãi như một sự thanh toán cho những thế hệ lao động không công: “Tất cả đất đai giờ đây thuộc về người Yankees và họ chia nó cho những người da màu”."
 		},
 		{
-			tittle: "", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "", 
+			image: null, 
+			isHeighLineText: false,
 			contentPage: "Vào tháng 2 năm 1865, Sherman tấn công tới Nam Carolina, vừa để liên kết với Grant tại Petersburg vừa để trừng phạt những kẻ chủ mưu li khai. Quân đội của ông tàn phá vùng nông thôn khi đi cắt ngang qua bang này. Sau khi chiếm được thủ đô Nam Carolina là Columbia, họ đốt khu vực thương mại, hầu hết các nhà thờ, và những khu vực giàu có nhất. Đến tháng 3, Sherman đã tới Bắc Carolina và chuẩn bị hội quân với Grant để bóp nát quân đội của Lee."
 		},
 		{
-			tittle: "", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "",
+			image: null, 
+			isHeighLineText: false,
 			contentPage: "Cuộc chiến bào mòn sinh lực của Grant tại Virginia đã phơi bày điểm yếu của Liên minh: sự gia tăng bất mãn của những người da trắng nghèo. Tức giận vì những người chủ nô được miễn tòng quân và lo sợ Liên minh diệt vong, những người nông dân bình thường ở miền Nam giờ đây kiên quyết không đi lính. Ngày càng nhiều người lính đào ngũ. Một người điền chủ nhỏ có tên David Harris đã thề “Giờ tôi sẽ đi làm thay vì đi đánh nhau”. Đến năm 1865, ít nhất 100.000 người đã trốn khỏi hàng ngũ quân Liên minh, buộc Quốc hội Liên minh phải cho phép tuyển lính da đen và tổng thống Davis ra lệnh trao trả tự do cho những người da đen phục vụ quân đội. Nhưng cuộc chiến kết thúc quá sớm để chúng ta có thể biết liệu có người nô lệ nào sẽ chiến đấu cho Liên minh hay không."
 		},
 		{
-			tittle: "", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "",
+			image: null,
+			isHeighLineText: false,
 			contentPage: "Biểu tượng kết thúc chiến tranh diễn ra tại Virginia. Vào tháng 4 năm 1865, Grant cuối cùng cũng giành quyền kiểm soát một đầu mối đường sắt quan trọng tại Petersburg và cắt đứt hậu cần của Lee. Lee đã bỏ Richmond và rút về Bắc Carolina để hội quân với lực lượng Liên minh ở đó. Trong khi Lincoln tới thăm thủ đô của Liên minh chìm trong đống đổ nát và tràn ngập nạn hôi của thì Grant đã cắt đứt đường rút lui của Lee. Vào ngày 9/4, sau gần 4 năm kể từ cuộc tấn công vào pháo đài Sumter, Lee đã đầu hàng tại trụ sở tòa án Appomattox, Virginia. Đến cuối tháng 5, tất cả các tướng Liên minh đều đã ngưng chiến, và quân đội cũng như chính phủ Liên minh đơn giản là biến mất hoàn toàn."
 		},
 		{
-			tittle: "", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "",
+			image: null, 
+			isHeighLineText: false,
 			contentPage: "Cuộc chiến khốc liệt và cay đắng cuối cùng cũng kết thúc. Quân đội Liên bang đã hủy diệt chế độ nô lệ cũng như quân đội và chính quyền Liên minh. Những nhà máy, kho hàng, và đường sắt ở miền Nam bị phá hủy, cũng như nhiều trang trại và một vài thành phố quan trọng nhất. Gần 260.000 lính Liên minh đã phải trả giá cho việc Li khai bằng mạng sống của mình. Ở bên kia chiến tuyến, hơn 360.000 người miền Bắc đã chết cho Liên bang, và hàng ngàn người nữa trở thành tàn phế. Liệu cái giá phải trả như thế có đáng không? Khi đọc bài phát biểu nhậm chức lần thứ hai của mình trong lúc cuộc chiến đang đi đến hồi kết, Abraham Lincoln đã không thể biện hộ cho cuộc tàn sát khủng khiếp và phải núp sau niềm tin tôn giáo của mình: “vẫn phải nói rằng ‘phán quyết của Chúa nhìn chung là đúng đắn và hợp lí’”"
 		},
 		{
-			tittle: "", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "",
+			image: null,
+			isHeighLineText: false, 
 			contentPage: "Nhưng kết quả của cuộc chiến là gì? Một cán bộ điều tra dân số cho rằng cuộc xung đột đã làm suy yếu “chế độ chuyên quyền” và có “hiệu ứng tạo ra công bằng” trong xã hội. Chế độ nô lệ đã diệt vong ở miền Nam, và ở miền Bắc, “những người nhà binh xuất thân từ tầng lớp thấp hơn giờ đây lãnh đạo cả xã hội, được nâng lên bằng những chiến công và lòng dũng cảm”. Tuy nhiên họ đã bỏ qua sự trỗi dậy trong thời chiến của một tầng lớp quí tộc tài chính mới sẽ sớm nắm quyền trong “Thời đại mạ vàng” của tài sản và sự dư thừa. Bên cạnh đó, cuộc chiến giữa hai miền vẫn chưa chấm dứt. Khi Miền Bắc bắt đầu tái thiết miền Nam và Liên bang, nó đã nhận ra nhiệm vụ đó cũng khó khăn không kém bản thân cuộc chiến tranh."
 		}
 	]
 },
 {	"id": 2,
 	"type": 2,
-	"nameType": "Lịch sử nước mỹ" 
+	"nameType": "Lịch sử nước mỹ",
 	"title": "Tổng quan về lịch sử của nước mỹ",
 	"description": "Lịch sử nước Mỹ với bề dày quá trình hình thành và phát triển qua các giai đoạn, thời kỳ khác nhau. Lịch sử nước Mỹ cho tới nay có thể khái quát thành các giai đoạn với những chặng đường biến cố thăng trầm khác nhau. Hôm nay hãy cùng Vietjet Air tìm hiểu chi tiết về nguồn thông tin này được chia sẻ trong bài viết dưới đây.",
 	"avataBook": "https://vietjet.net/includes/uploads/2017/10/lich-su-nuoc-my-thoi-ky-thuoc-dia.jpg",
 	"content": [
 		{
-			tittle: "Thời kỳ thuộc địa hóa của người Tây Ban Nha, Hà lan và Pháp", // tittle cho từng đoạn
-			image: "https://spiderkien.files.wordpress.com/2011/03/lee-surrender.jpg", // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "Thời kỳ thuộc địa hóa của người Tây Ban Nha, Hà lan và Pháp",
+			image: "https://spiderkien.files.wordpress.com/2011/03/lee-surrender.jpg", 
+			isHeighLineText: false, 
 			contentPage: "Các nhà thám hiểm Tây Ban nha là người Châu Á đầu tiên có mặt tại lãnh thổ thuộc Hoa Kỳ. Sau đó họ đưa một số người đến định cư và lập thành khu định cư thường trực đầu tiên của người Châu Á tại Hoa Kỳ. Tân Hà lan là thuộc địa Hà Lan vào thế kỷ 17 có trung tâm nằm ngay tại Thành phố New York và trường tồn với văn hóa Mỹ cho tới ngày nay. Tân Pháp là vùng bị Pháp thuộc địa hóa từ năm 1534 đến 1763."
 		},
 		{
-			tittle: "Thời kỳ thuộc địa hóa của người Anh", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "Thời kỳ thuộc địa hóa của người Anh",
+			image: null, 
+			isHeighLineText: false, 
 			contentPage: "Được thiết lập từ năm 1607 trên dòng sông Jamees (nơi bắt đầu biên cương Mỹ). Đến cuối năm 1610 Anh đã đưa tới đây khoảng 50 ngàn tù nhân.
 Người bản địa Hoa Kỳ là người Châu Âu bị bắt đến và dưới sự cai quản của thuộc địa Anh trong thời gian dài. Tới ngày 4 tháng 7 năm 1776, các thuộc địa tuyên bố độc lập khỏi nước Anh và trở thành Hợp chúng quốc Hoa Kỳ. Thời kỳ này đặt dưới sự lãnh đạo của vị tổng thống đầu tiên George Washington.
 Sau đó, nước Mỹ đã trải qua thời kỳ những năm đầu tiên của chế độ Cộng Hòa với việc thành lập các điều khoản Hộ bang và Hiến pháp. Bên cạnh đó cũng tiến hành thành lập chính phủ, quốc hội Hoa Kỳ, tu chính pháp và thông qua đạo luật Nhân Quyền."
-		}
+		},
 		{
-			tittle: "Lịch sử nước Mỹ trong thế kỷ 19", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "Lịch sử nước Mỹ trong thế kỷ 19",
+			image: null, 
+			isHeighLineText: false,
 			contentPage: "Đây được xem là thời đại Dân chủ – Cộng hòa của nước Mỹ. Trong thời kỳ này Thomas Jefferson đã lên ngôi tổng thống vào năm 1800 và tiến hành mua vùng dất Louisiana cung cấp cho người định cư Hoa Kỳ một vùng đất rộng mở về phía tây.
 Trong thời kỳ này, nước Mỹ đã trải qua các cuộc chiến tranh với Anh Quốc năm 1812 (vì vi phạm quyền trung lập của tàu Mỹ). Mãi sau đó là thời kỳ lận đận trong chiến tranh và những mâu thuẫn, xung đột xảy ra với chính quyền Anh. Bắt đầu từ năm 1814 bắt đầu Hoa Kỳ bước vào thời kỳ khởi sắc và phát triển trên mọi mặt.
 Cũng trong thời kỳ này, các phong trào cách mạng và sự chuyển mình của mỹ diễn ra mạnh mẽ. Cụ thể là các cuộc đại thức tỉnh (phong trào phục hưng Tin lành); chủ nghĩa bãi nô; mở rộng về phía tây và mệnh hiển nhiên; chia sẻ giữa miền Bắc và miền Nam; nội chiến; tái thiết và thành lập thời đại mạ hóa."
 		},
 		{
-			tittle: "Lịch sử nước Mỹ trong thế kỷ 20", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "Lịch sử nước Mỹ trong thế kỷ 20", 
+			image: null, 
+			isHeighLineText: false, 
 			contentPage: "Đây là thời đại tiến bộ và thay mình lột xác của nước Mỹ từ hệ thống chính trị đến kinh tế, văn hóa, xã hội. Tại tất cả các thành phố, tiểu bang, cấp bậc quốc gia, giáo dục, y tế, công nghiệp, người tiến bộ giới trí thức đã kêu gọi sự hiện đại hóa và thanh lọc hệ thống chính trị.
 Trong thời kỳ này nổi lên chủ nghĩa đế quốc, Mỹ trở thành cường quốc quân sự và kinh tế thế giới sau năm 1890.  Trong thời gian này, Mỹ bành trướng tiến hành các cuộc xâm lược một số nước và ủng hộ, tài trợ đứng sau cho một số nước khác (CuBa, Philippines).
 Một số sự kiện nổi bật trong thời gian này của nước Mỹ gồm: Trong cuộc chiến tranh thế giới thứ nhất Mỹ hoàn toàn đứng trung lập; phong trào quyền đầu phiếu của phụ nữ phát triển và lan rộng; ồn ào và khủng hoảng những năm 20; chiến tranh thế giới thứ 2; chiến tranh lạnh, phản văn hóa và dân quyền; chủ nghĩa tự do; phong trào dân quyền; phong trào phụ nữ."
 		},
 		{
-			tittle: "Lịch sử nước Mỹ trong thế kỷ 21", // tittle cho từng đoạn
-			image: null, // hình ảnh cho đoạn văn nếu có
-			isHeighLineText: false, // true thì cho in nghiêng chữ,
+			tittle: "Lịch sử nước Mỹ trong thế kỷ 21",
+			image: null, 
+			isHeighLineText: false, 
 			contentPage: "Thế kỷ 21 bắt đầu với sự kiện ngày 11 tháng 9 và các cuộc chiến tranh khủng bố đe dọa tình hình an ninh chính trị. Trong thời kỳ này, nền kinh tế, chính trị và quân sự của Mỹ vẫn phát triển vượt trội và nắm giữ vai trò bá chủ thế giới.
 Những sự kiện lớn xảy ra trong đầu thế kỷ 21 cho tới nay ở Mỹ gồm có chiến tranh với Iraq năm 2003; cuộc khủng hoảng tài chính năm 2008; sự đắc cử tổng thống của Obama trong năm 2008… là bước ngoặt lớn của lịch sử nước Mỹ."
 		}
