@@ -1,0 +1,542 @@
+[
+    {
+        "lv": 1,
+        "lsFruit": [
+        [ 0, 1, 1, 1, 0],
+        [ 1, 1, 1, 1, 1],
+        [ 0, 1, 1, 1, 0],
+        [ 1, 1, 1, 1, 1],
+        [ 0, 1, 1, 1, 0]
+        ],
+        "lstype": [0, 1, 3, 4],
+        "lsobjTarget":  [
+            {
+                "typeFruit": 1,
+                "countFruit": 10
+            },
+			{
+                "typeFruit": 5,
+                "countFruit": 1
+            }
+        ],
+        "turn": 15,
+        "numColumn": 5,
+        "numbRow": 5
+    },
+
+    {
+        "lv": 2,
+        "lsFruit": [
+        [ 1, 1, 1, 1, 1],
+        [ 1, 1, 0, 1, 1],
+        [ 1, 1, 0, 1, 1],
+        [ 1, 1, 0, 1, 1],
+        [ 1, 1, 1, 1, 1]
+        ],
+        "lstype": [0, 1, 2, 3],
+        "lsobjTarget":  [
+            {
+                "typeFruit": 2,
+                "countFruit": 8
+            },
+			{
+                "typeFruit": 5,
+                "countFruit": 10
+            }
+        ],
+        "turn": 10,
+        "numColumn": 5,
+        "numbRow": 5
+    },
+
+
+    {
+        "lv":3,
+        "lsFruit": [
+        [ 0, 0, 0, 0, 0, 0],
+        [ 0, 0, 4, 4, 0, 0],
+        [ 0, 4, 0, 0, 4, 0],
+        [ 0, 4, 0, 0, 4, 0],
+        [ 0, 0, 4, 4, 0, 0],
+        [ 0, 0, 0, 0, 0, 0]
+        ],
+        "lstype": [1, 2, 3, 4],
+        "lsobjTarget":  [
+            {
+                "typeFruit": 1,
+                "countFruit": 7
+            }
+        ],
+        "turn": 6,
+        "numColumn": 6,
+        "numbRow": 6
+    },
+
+    {
+        "lv":4,
+        "lsFruit": [
+        [ 4, 0, 0, 0, 0, 4],
+        [ 0, 4, 0, 0, 4, 0],
+        [ 0, 0, 4, 4, 0, 0],
+        [ 0, 0, 4, 4, 0, 0],
+        [ 0, 4, 0, 0, 4, 0],
+        [ 4, 0, 0, 0, 0, 4]
+        ],
+        "lstype": [0, 1, 3, 4],
+        "lsobjTarget":  [
+            {
+                "typeFruit": 4,
+                "countFruit": 10
+            }
+        ],
+        "turn": 8,
+        "numColumn": 6,
+        "numbRow": 6
+    },
+    {
+        "lv":5,
+        "lsFruit": [
+        [ 1, 4, 0, 0, 4, 1],
+        [ 4, 0, 0, 0, 0, 4],
+        [ 0, 0, 0, 0, 0, 0],
+        [ 0, 0, 0, 0, 0, 0],
+        [ 4, 0, 0, 0, 0, 4],
+        [ 1, 4, 0, 0, 4, 1]
+        ],
+        "lstype": [0, 1, 2, 3, 4],
+        "lsobjTarget": [
+            {
+                "typeFruit": 3,
+                "countFruit": 13
+            }
+        ],
+        "turn": 9,
+        "numColumn": 6,
+        "numbRow": 6
+    },
+
+    {
+        "lv":6,
+        "lsFruit": [
+        [ 1, 0, 0, 0, 0, 1],
+        [ 0, 0, 4, 4, 0, 0],
+        [ 0, 4, 0, 0, 4, 0],
+        [ 0, 4, 0, 0, 4, 0],
+        [ 0, 0, 4, 4, 0, 0],
+        [ 1, 0, 0, 0, 0, 1]
+        ],
+        "lstype": [0, 1, 2, 3, 4],
+        "lsobjTarget":  [
+            {
+                "typeFruit": 4,
+                "countFruit": 5
+            },
+            {
+                "typeFruit": 3,
+                "countFruit": 5
+            }
+        ],
+        "turn": 10,
+        "numColumn": 6,
+        "numbRow": 6
+        },
+
+    {
+    "lv":7,
+    "lsFruit": [
+    [ 1, 4, 0, 0, 4, 1],
+    [ 4, 0, 0, 0, 0, 4],
+    [ 0, 0, 4, 4, 0, 0],
+    [ 0, 0, 4, 4, 0, 0],
+    [ 4, 0, 0, 0, 0, 4],
+    [ 1, 4, 0, 0, 4, 1]
+    ],
+    "lstype": [0, 1, 2, 3, 4],
+    "lsobjTarget":[
+        {
+            "typeFruit": 0,
+            "countFruit": 7
+        },
+        {
+            "typeFruit": 1,
+            "countFruit": 8
+        }
+    ],
+    "turn": 11,
+    "numColumn": 6,
+    "numbRow": 6
+    },
+
+    {
+        "lv":8,
+        "lsFruit": [
+        [ 1, 0, 4, 4, 0, 1],
+        [ 0, 4, 0, 0, 4, 0],
+        [ 4, 0, 0, 0, 0, 4],
+        [ 4, 0, 0, 0, 0, 4],
+        [ 0, 4, 0, 0, 4, 0],
+        [ 1, 0, 4, 4, 0, 1]
+        ],
+        "lstype": [0, 1, 2, 3, 4],
+        "lsobjTarget":[
+            {
+                "typeFruit": 4,
+                "countFruit": 8
+            },
+            {
+                "typeFruit": 3,
+                "countFruit": 8
+            }
+        ],
+        "turn": 12,
+        "numColumn": 6,
+        "numbRow": 6
+    },
+
+    {
+        "lv":9,
+        "lsFruit": [
+        [ 0, 0, 2, 2, 0, 0],
+        [ 0, 2, 0, 0, 2, 0],
+        [ 2, 0, 0, 0, 0, 2],
+        [ 2, 0, 0, 0, 0, 2],
+        [ 0, 2, 0, 0, 2, 0],
+        [ 0, 0, 2, 2, 0, 0]
+        ],
+        "lstype": [0, 1, 2, 3, 4],
+        "lsobjTarget":[
+            {
+                "typeFruit": 1,
+                "countFruit": 7
+            },
+            {
+                "typeFruit": 4,
+                "countFruit": 7
+            }
+        ],
+        "turn": 8,
+        "numColumn": 6,
+        "numbRow": 6
+    },
+
+    {
+        "lv":10,
+        "lsFruit": [
+        [ 0, 3, 0, 3, 0, 3, 0],
+        [ 3, 0, 3, 0, 3, 0, 3],
+        [ 0, 0, 0, 0, 0, 0, 0],
+        [ 3, 0, 0, 0, 0, 0, 3],
+        [ 0, 0, 0, 0, 0, 0, 0],
+        [ 3, 0, 3, 0, 3, 0, 3],
+        [ 0, 3, 0, 3, 0, 3, 0]
+        ],
+        "lstype": [0, 1, 2, 3, 4],
+        "lsobjTarget":[
+            {
+                "typeFruit": 4,
+                "countFruit": 5
+            },
+            {
+                "typeFruit": 3,
+                "countFruit": 9
+            }
+        ],
+        "turn": 10,
+        "numColumn": 7,
+        "numbRow": 7
+    },
+
+    {
+        "lv":11,
+        "lsFruit": [
+        [ 0, 0, 0, 0, 0, 0, 0],
+        [ 0, 0, 0, 0, 0, 0, 0],
+        [ 0, 0, 0, 0, 0, 0, 0],
+        [ 0, 0, 0, 0, 0, 0, 0],
+        [ 0, 0, 0, 0, 0, 0, 0],
+        [ 0, 0, 0, 0, 0, 0, 0],
+        [ 0, 0, 0, 0, 0, 0, 0]
+        ],
+        "lstype": [0, 1, 2, 3, 4],
+        "lsobjTarget":[
+            {
+                "typeFruit": 2,
+                "countFruit": 5
+            },
+            {
+                "typeFruit": 0,
+                "countFruit": 5
+            }, 
+            {
+                "typeFruit": 1,
+                "countFruit": 5
+            }
+        ],
+        "turn": 6,
+        "numColumn": 7,
+        "numbRow": 7
+    },
+
+    {
+        "lv":12,
+        "lsFruit": [
+        [ 0, 0, 0, 0, 0, 0, 0],
+        [ 0, 4, 4, 0, 4, 4, 0],
+        [ 0, 4, 0, 0, 0, 4, 0],
+        [ 0, 0, 0, 0, 0, 0, 0],
+        [ 0, 4, 0, 0, 0, 4, 0],
+        [ 0, 4, 4, 0, 4, 4, 0],
+        [ 0, 0, 0, 0, 0, 0, 0]
+        ],
+        "lstype": [0, 1, 2, 3, 4],
+        "lsobjTarget":[
+            {
+                "typeFruit": 4,
+                "countFruit": 4
+            },
+            {
+                "typeFruit": 2,
+                "countFruit": 5
+            }, 
+            {
+                "typeFruit": 3,
+                "countFruit": 6
+            }
+        ],
+        "turn": 8,
+        "numColumn": 7,
+        "numbRow": 7
+    },
+
+    {
+        "lv":13,
+        "lsFruit": [
+        [ 0, 0, 0, 2, 0, 0, 0],
+        [ 0, 0, 4, 0, 4, 0, 0],
+        [ 0, 4, 0, 0, 0, 4, 0],
+        [ 2, 0, 0, 2, 0, 0, 2],
+        [ 0, 4, 0, 0, 0, 4, 0],
+        [ 0, 0, 4, 0, 4, 0, 0],
+        [ 0, 0, 0, 2, 0, 0, 0]
+        ],
+        "lstype": [0, 1, 2, 3, 4],
+        "lsobjTarget":[
+            {
+                "typeFruit": 1,
+                "countFruit": 8
+            },
+            {
+                "typeFruit": 3,
+                "countFruit": 8
+            }
+        ],
+        "turn": 8,
+        "numColumn": 7,
+        "numbRow": 7
+    },
+
+    {
+        "lv":14,
+        "lsFruit": [
+        [ 1, 0, 4, 4, 4, 0, 1],
+        [ 0, 0, 0, 0, 0, 0, 0],
+        [ 4, 0, 3, 3, 3, 0, 4],
+        [ 4, 0, 3, 1, 3, 0, 4],
+        [ 4, 0, 3, 3, 3, 0, 4],
+        [ 0, 0, 0, 0, 0, 0, 0],
+        [ 1, 0, 4, 4, 4, 0, 1]
+        ],
+        "lstype": [0, 1, 2, 3, 4],
+        "lsobjTarget":[
+            {
+                "typeFruit": 2,
+                "countFruit": 5
+            },
+            {
+                "typeFruit": 1,
+                "countFruit": 5
+            },
+            {
+                "typeFruit": 4,
+                "countFruit": 5
+            }
+        ],
+        "turn": 10,
+        "numColumn": 7,
+        "numbRow": 7
+    },
+
+    {
+        "lv":15,
+        "lsFruit": [
+        [ 0, 0, 0, 0, 0, 0, 0],
+        [ 0, 4, 4, 4, 4, 4, 0],
+        [ 0, 4, 0, 3, 0, 4, 0],
+        [ 0, 4, 3, 0, 3, 4, 0],
+        [ 0, 4, 0, 3, 0, 4, 0],
+        [ 0, 4, 4, 4, 4, 4, 0],
+        [ 0, 0, 0, 0, 0, 0, 0]
+        ],
+        "lstype": [0, 1, 2, 3, 4],
+        "lsobjTarget":[
+            {
+                "typeFruit": 2,
+                "countFruit": 7
+            },
+            {
+                "typeFruit": 1,
+                "countFruit": 7
+            },
+            {
+                "typeFruit": 4,
+                "countFruit": 7
+            }
+        ],
+        "turn": 15,
+        "numColumn": 7,
+        "numbRow": 7
+    },
+
+    {
+        "lv1":16,
+        "lsFruit": [
+        [ 1, 1, 0, 0, 0, 1, 1],
+        [ 1, 2, 0, 0, 0, 2, 1],
+        [ 0, 0, 4, 0, 4, 0, 0],
+        [ 0, 0, 0, 4, 0, 0, 0],
+        [ 0, 0, 4, 0, 4, 0, 0],
+        [ 2, 2, 0, 0, 0, 2, 2],
+        [ 1, 2, 0, 0, 0, 2, 1]
+        ],
+        "lstype": [0, 1, 2, 3, 4],
+        "lsobjTarget":[
+            {
+                "typeFruit": 4,
+                "countFruit": 12
+            },
+            {
+                "typeFruit": 2,
+                "countFruit": 12
+            }
+        ],
+        "turn": 16,
+        "numColumn": 7,
+        "numbRow": 7
+    },
+
+    {
+        "lv":17,
+        "lsFruit": [
+        [ 4, 0, 4, 4, 4, 0, 4],
+        [ 0, 4, 0, 0, 0, 4, 0],
+        [ 4, 0, 0, 3, 0, 0, 4],
+        [ 4, 0, 3, 0, 3, 0, 4],
+        [ 4, 0, 0, 3, 0, 0, 4],
+        [ 0, 4, 0, 0, 0, 4, 0],
+        [ 4, 0, 4, 4, 4, 0, 4]
+        ],
+        "lstype": [0, 1, 2, 3, 4],
+        "lsobjTarget":[
+            {
+                "typeFruit": 0,
+                "countFruit": 6
+            },
+            {
+                "typeFruit": 1,
+                "countFruit": 7
+            },
+            {
+                "typeFruit": 2,
+                "countFruit": 8
+            }
+        ],
+        "turn": 14,
+        "numColumn": 7,
+        "numbRow": 7
+    },
+
+    {
+        "lv":18,
+        "lsFruit": [
+        [ 4, 0, 0, 0, 0, 0, 4],
+        [ 0, 4, 0, 0, 0, 4, 0],
+        [ 0, 0, 4, 4, 4, 0, 0],
+        [ 0, 0, 4, 1, 4, 0, 0],
+        [ 0, 0, 4, 4, 4, 0, 0],
+        [ 0, 4, 0, 0, 0, 4, 0],
+        [ 4, 0, 0, 0, 0, 0, 4]
+        ],
+        "lstype": [0, 1, 2, 3, 4],
+        "lsobjTarget":[
+            {
+                "typeFruit": 4,
+                "countFruit": 7
+            },
+            {
+                "typeFruit": 4,
+                "countFruit": 10
+            },
+            {
+                "typeFruit": 2,
+                "countFruit": 9
+            }
+        ],
+        "turn": 15,
+        "numColumn": 7,
+        "numbRow": 7
+    },
+
+    {
+        "lv":19,
+        "lsFruit": [
+        [ 1, 0, 0, 1, 0, 0, 1],
+        [ 0, 4, 4, 0, 4, 4, 0],
+        [ 0, 0, 0, 0, 0, 0, 0],
+        [ 1, 3, 3, 3, 3, 3, 1],
+        [ 0, 0, 0, 0, 0, 0, 0],
+        [ 0, 4, 4, 0, 4, 4, 0],
+        [ 1, 0, 0, 1, 0, 0, 1]
+        ],
+        "lstype": [0, 1, 2, 3, 4],
+        "lsobjTarget":[
+            {
+                "typeFruit": 2,
+                "countFruit": 15
+            },
+            {
+                "typeFruit": 3,
+                "countFruit": 15
+            }
+        ],
+        "turn": 19,
+        "numColumn": 7,
+        "numbRow": 7
+    },
+
+    {
+        "lv":20,
+        "lsFruit": [
+        [ 2, 0, 0, 3, 0, 0, 2],
+        [ 2, 0, 0, 3, 0, 0, 2],
+        [ 2, 0, 0, 3, 0, 0, 2],
+        [ 2, 4, 4, 1, 4, 4, 2],
+        [ 2, 0, 0, 3, 0, 0, 2],
+        [ 2, 0, 0, 3, 0, 0, 2],
+        [ 2, 0, 0, 3, 0, 0, 2]
+        ],
+        "lstype": [0, 1, 2, 3, 4],
+        "lsobjTarget":[
+            {
+                "typeFruit": 2,
+                "countFruit": 8
+            },
+            {
+                "typeFruit": 3,
+                "countFruit": 10
+            }
+        ],
+        "turn": 17,
+        "numColumn": 7,
+        "numbRow": 7
+    }
+]
